@@ -1,0 +1,17 @@
+{
+  "name": "image-labeling-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"cd client && yarn start\" \"cd server && yarn start\"",
+    "build": "babel src -d lib",
+    "prebuild": "jest"
+  },
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs-backend-cpu": "^4.1.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.1.0",
+    "@tensorflow/tfjs-node": "^4.1.0",
+    "concurrently": "^7.3.0"
+  }
+}

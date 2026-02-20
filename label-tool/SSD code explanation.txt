@@ -1,0 +1,32 @@
+1. Install TensorFlow on your machine, possibly upgrading previously installed Python packages. May impact existing Python programs on your machine.
+
+2. #pycocotools is a Python API that. # assists in loading, parsing and visualizing the annotations in COCO.
+
+3. In Pathlib, the Path. cwd() function is used to get the current working directory and / operator is used in place of os. path
+
+4. This os. chdir() method changes the current working directory to a specified path instance.
+
+5. "Clone depth" is a feature of git to reduce server load: Instead of cloning the complete repository (as usually done with git), using clone depth 
+just clones the last clone-depth-number revisions of your repository."Clone depth" is a feature of git to reduce server load: Instead of cloning the complete 
+repository (as usually done with git), using clone depth just clones the last clone-depth-number revisions of your repository.
+
+6. Protocol Buffers (Protobuf) is a free and open-source cross-platform data format used to serialise structured data.
+
+7. The parameter to the --python_out= option is the directory where you want the compiler to write your Python output.
+The compiler creates a . py file for each . proto file input.A . proto file is similar to a JSON file in that it represents structured data, but you can run a 
+compiler on the . proto file to generate code that can read and write the data in the programming language of your choice.
+
+8. Protocol buffers, usually referred as Protobuf, is a protocol developed by Google to allow serialisation and deserialisation of structured data. 
+Google developed it with the goal to provide a better way, compared to XML, to make systems communicate.
+
+9. The TensorFlow Object Detection API is an open source framework built on top of TensorFlow that makes it easy to construct, 
+train and deploy object detection models.
+
+10. APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. 
+For example, the weather bureau's software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and shows you 
+daily weather updates on your phone.
+
+11. TensorFlow-Slim (TF-Slim) is a TensorFlow wrapper library that allows you to build and train complex TensorFlow models in an easy, intuitive way by eliminating 
+the boilerplate code that plagues many deep learning algorithms.
+
+12. glob (short for global) is used to return all file paths that match a specific pattern.
