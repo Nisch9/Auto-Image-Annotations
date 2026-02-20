@@ -10,28 +10,6 @@ Use it when you need to segment and label multiple images, either yourself or by
 
 Demo of the labeling interface with all data served statically (no persistence, reverts on refresh).
 
-## Screenshots
-
-Bounding box labeling:
-
-![](./client/src/help/tutorial/bbox-labeling.gif)
-
-Segmentation with polygons:
-
-![](./client/src/help/tutorial/polygon-labeling.gif)
-
-Automatic tracing:
-
-![](./client/src/help/tutorial/auto-tracing.gif)
-
-Assisted segmentation with Tensor Flow Serving:
-
-![](./client/src/help/tutorial/ml-semantic-segmentation.gif)
-
-Project configuration and custom labeling UI:
-
-![](./client/src/help/tutorial/project-page.png)
-
 ## Development
 
 Install npm packages for client, server and the top-level folder:
